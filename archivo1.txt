@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Conflicto solucionado
-=======
-<<<<<<< HEAD
-Nueva modificación de texto
-=======
-Hola mundo
->>>>>>> ec045b5cda4ea37dd9ccba09a31a1825f7ecdeed
->>>>>>> main
