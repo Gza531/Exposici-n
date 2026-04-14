@@ -1,2 +1,1 @@
-Hola mundo
-Modificación pero en la rama de gonza
+Conflicto solucionado
